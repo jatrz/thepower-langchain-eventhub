@@ -1,0 +1,23 @@
+[
+  {
+    "id_pedido": "PED-1001",
+    "email": "ana.ejemplo@correo-ficticio.test",
+    "estado": "confirmado",
+    "eventos": ["EVT-001", "EVT-003"],
+    "cantidad": 2
+  },
+  {
+    "id_pedido": "PED-1002",
+    "email": "luis.prueba@correo-ficticio.test",
+    "estado": "pendiente",
+    "eventos": ["EVT-006"],
+    "cantidad": 1
+  },
+  {
+    "id_pedido": "PED-1003",
+    "email": "marta.demo@correo-ficticio.test",
+    "estado": "cancelado",
+    "eventos": ["EVT-008"],
+    "cantidad": 3
+  }
+]

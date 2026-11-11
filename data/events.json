@@ -1,0 +1,74 @@
+[
+  {
+    "id": "EVT-001",
+    "nombre": "Noche Indie en la Marina",
+    "ciudad": "Valencia",
+    "categoria": "concierto",
+    "fecha": "2026-06-12",
+    "precio": 28.0,
+    "disponibilidad": 180
+  },
+  {
+    "id": "EVT-002",
+    "nombre": "Valencia Jazz al Atardecer",
+    "ciudad": "Valencia",
+    "categoria": "concierto",
+    "fecha": "2026-07-03",
+    "precio": 35.0,
+    "disponibilidad": 95
+  },
+  {
+    "id": "EVT-003",
+    "nombre": "Electro Beach Festival",
+    "ciudad": "Valencia",
+    "categoria": "concierto",
+    "fecha": "2026-08-15",
+    "precio": 55.0,
+    "disponibilidad": 420
+  },
+  {
+    "id": "EVT-004",
+    "nombre": "Clásicos en el Palau",
+    "ciudad": "Valencia",
+    "categoria": "concierto",
+    "fecha": "2026-09-20",
+    "precio": 42.0,
+    "disponibilidad": 60
+  },
+  {
+    "id": "EVT-005",
+    "nombre": "Rock en la Ribera",
+    "ciudad": "Valencia",
+    "categoria": "concierto",
+    "fecha": "2026-10-04",
+    "precio": 22.0,
+    "disponibilidad": 248
+  },
+  {
+    "id": "EVT-006",
+    "nombre": "Feria del Libro de Otoño",
+    "ciudad": "Madrid",
+    "categoria": "cultura",
+    "fecha": "2026-10-18",
+    "precio": 8.0,
+    "disponibilidad": 300
+  },
+  {
+    "id": "EVT-007",
+    "nombre": "Maratón Nocturna del Puerto",
+    "ciudad": "Barcelona",
+    "categoria": "deporte",
+    "fecha": "2026-11-07",
+    "precio": 18.0,
+    "disponibilidad": 140
+  },
+  {
+    "id": "EVT-008",
+    "nombre": "Taller de Cocina Mediterránea",
+    "ciudad": "Sevilla",
+    "categoria": "gastronomia",
+    "fecha": "2026-05-30",
+    "precio": 45.0,
+    "disponibilidad": 24
+  }
+]
