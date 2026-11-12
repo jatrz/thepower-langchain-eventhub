@@ -1,4 +1,4 @@
-# EventHub
+# thepower-langchain-eventhub
 
 Asistente de atención al cliente para un catálogo ficticio de eventos. Responde con las políticas del proyecto, recuerda la conversación de una sesión y, a partir del paso 3, consulta eventos y pedidos reales guardados en JSON.
 
@@ -27,7 +27,7 @@ Las versiones fijadas están en `requirements.txt`.
 ## Estructura de carpetas
 
 ```text
-eventhub/
+thepower-langchain-eventhub/
 ├── app.py                 # python app.py 1|2|3
 ├── common.py              # políticas, modelo, parser, memoria y consola
 ├── paso1.py               # políticas, sin memoria ni herramientas
@@ -93,10 +93,10 @@ Si coincide, devuelve `id_pedido`, `estado`, `eventos` y `cantidad`. No devuelve
 
 ## Instalación y entorno virtual
 
-Desde Ubuntu en WSL, en la raíz del proyecto:
+Sitúate en la carpeta del proyecto `thepower-langchain-eventhub` dentro de Ubuntu:
 
 ```bash
-cd ./eventhub
+cd thepower-langchain-eventhub
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install --upgrade pip
@@ -106,7 +106,7 @@ pip install -r requirements.txt
 Si `.venv` ya existe, basta con activarlo:
 
 ```bash
-cd ./eventhub
+cd thepower-langchain-eventhub
 source .venv/bin/activate
 ```
 
